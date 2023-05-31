@@ -55,7 +55,7 @@ dependencies {
     implementation "androidx.compose.ui:ui-tooling-preview:$compose_ui_version"
     implementation 'androidx.compose.material:material:1.2.0'
     // Google Ads
-    implementation "com.google.android.gms:play-services-ads:21.5.0"
+    implementation "com.google.android.gms:play-services-ads:22.1.0"
     implementation "com.permutive.android:core:1.5.12"
     implementation "com.permutive.android:google-ads:1.5.12"
 
